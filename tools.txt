@@ -1,0 +1,13 @@
+https://github.com/gchq/CyberChef
+https://github.com/torproject/torbrowser-launcher
+https://github.com/fortra/impacket
+https://github.com/rapid7/metasploit-framework
+https://nmap.org/
+https://www.shodan.io/
+https://www.maltego.com/
+https://censys.com/
+https://github.com/qTox/
+https://ipinfo.io/
+https://www.greynoise.io/
+https://github.com/danielmiessler/SecLists
+https://github.com/NationalSecurityAgency/ghidra
